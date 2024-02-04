@@ -13,6 +13,6 @@ Now write `yarn start` to start the frontend.
 Go the the backend folder in terminal and write the command `mvn dependency:tree` and then write `mvn spring-boot:run`
 
 
-#### NOTE: Please change the mysql user credentials in `backend/src/main/resources/application.yml` file.
+#### NOTE: Please change the mysql user credentials in `backend/src/main/resources/application.yml` file. Also, Please create the database named sunbasedata And if needed a table named customer in MySQL. 
 
 ## Thanks for considering my application.
